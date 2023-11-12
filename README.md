@@ -7,7 +7,7 @@
 
 ## 💻 Demo
 
-![Screenshot of the static portfolio](https://github.com/xkrishguptaa/portfolio-static/raw/main/assets/screenshot/desktop.png)
+![Screenshot of the static portfolio](https://github.com/xkrishguptaa/portfolio-static/raw/main/assets/screenshots/desktop.png)
 
 Visit [https://xkrishguptaa.github.io/portfolio-static/](https://xkrishguptaa.github.io/portfolio-static/) to see the live demo.
 
