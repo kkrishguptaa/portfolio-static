@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/xkrishguptaa.png" height="100px" width="100px" />
+  <img src="https://github.com/kkrishguptaa.png" height="100px" width="100px" />
   <br />
   <h1>Portfolio Static</h1>
   <p>Simple cover/portfolio page built with static technologies</p>
@@ -7,9 +7,9 @@
 
 ## 💻 Demo
 
-![Screenshot of the static portfolio](https://github.com/xkrishguptaa/portfolio-static/raw/main/assets/screenshots/desktop.png)
+![Screenshot of the static portfolio](https://github.com/kkrishguptaa/portfolio-static/raw/main/assets/screenshots/desktop.png)
 
-Visit [https://xkrishguptaa.github.io/portfolio-static/](https://xkrishguptaa.github.io/portfolio-static/) to see the live demo.
+Visit [https://kkrishguptaa.github.io/portfolio-static/](https://kkrishguptaa.github.io/portfolio-static/) to see the live demo.
 
 ## 📄 License
 
